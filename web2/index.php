@@ -1,7 +1,7 @@
 <html>
 <head><title>Your Favorite</title></head>
 <body>
-    <form action="fav.php" method="post">
+    <form action="fav.php" method="POST">
     <b>Please enter your first name: </b><br/>
     <input type="text" size="45" name="username"><br/>
     <b>Please select your favorite wine:</b><br/>
